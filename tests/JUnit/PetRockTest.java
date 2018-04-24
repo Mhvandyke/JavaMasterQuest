@@ -11,4 +11,12 @@ class PetRockTest {
         PetRock rocky = new PetRock("Rocky");
         assertEquals("Rocky",rocky.getName());
     }
+
+    @Test
+    void checkSame(){
+
+        assertSame("Rocky", "Rocky");
+
+    }
+
 }
