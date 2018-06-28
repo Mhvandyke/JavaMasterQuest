@@ -1,4 +1,4 @@
-package MiscConcepts.Generics.GenericTypes;
+package AlgorithmsAndMisc.Generics.GenericTypes;
 
 public class BoxType {
     private Object object;

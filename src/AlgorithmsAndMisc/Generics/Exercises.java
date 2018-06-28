@@ -1,12 +1,12 @@
-package MiscConcepts.Generics;
+package AlgorithmsAndMisc.Generics;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import MiscConcepts.Generics.GenericClasses.OrderedPair;
-import MiscConcepts.Generics.GenericClasses.Pair;
-import MiscConcepts.Generics.GenericTypes.BoxType;
-import MiscConcepts.Generics.GenericClasses.BoxClass;
+import AlgorithmsAndMisc.Generics.GenericClasses.OrderedPair;
+import AlgorithmsAndMisc.Generics.GenericClasses.Pair;
+import AlgorithmsAndMisc.Generics.GenericTypes.BoxType;
+import AlgorithmsAndMisc.Generics.GenericClasses.BoxClass;
 
 
 public class Exercises {

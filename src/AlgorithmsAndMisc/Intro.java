@@ -1,4 +1,4 @@
-package MiscConcepts;
+package AlgorithmsAndMisc;
 
 public class Intro {
 

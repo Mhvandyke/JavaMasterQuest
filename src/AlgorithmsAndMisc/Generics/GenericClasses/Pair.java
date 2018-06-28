@@ -1,4 +1,4 @@
-package MiscConcepts.Generics.GenericClasses;
+package AlgorithmsAndMisc.Generics.GenericClasses;
 
 
 public interface Pair<K,V> {
@@ -10,7 +10,8 @@ public interface Pair<K,V> {
 }
 
 
-public class OrderedPair <K,V> implements Pair<K,V> {
+
+class OrderedPair <K,V> implements Pair<K,V> {
 
 
     private K key;

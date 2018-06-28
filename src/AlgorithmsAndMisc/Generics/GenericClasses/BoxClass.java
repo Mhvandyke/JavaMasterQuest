@@ -1,4 +1,4 @@
-package MiscConcepts.Generics.GenericClasses;
+package AlgorithmsAndMisc.Generics.GenericClasses;
 
 public class BoxClass<T> {
 
